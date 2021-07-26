@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/website/static/js/main.4bb7dc0a.chunk.js",
+    "main.js.map": "/website/static/js/main.4bb7dc0a.chunk.js.map",
+    "runtime-main.js": "/website/static/js/runtime-main.4f626c65.js",
+    "runtime-main.js.map": "/website/static/js/runtime-main.4f626c65.js.map",
+    "static/js/2.bd87bd68.chunk.js": "/website/static/js/2.bd87bd68.chunk.js",
+    "static/js/2.bd87bd68.chunk.js.map": "/website/static/js/2.bd87bd68.chunk.js.map",
+    "index.html": "/website/index.html",
+    "static/js/2.bd87bd68.chunk.js.LICENSE.txt": "/website/static/js/2.bd87bd68.chunk.js.LICENSE.txt",
+    "static/media/Augustus.2e0b62d1.jpg": "/website/static/media/Augustus.2e0b62d1.jpg",
+    "static/media/BackArrow.e1224afc.svg": "/website/static/media/BackArrow.e1224afc.svg",
+    "static/media/IBMPlexSans-BoldItalic.2154ceb1.ttf": "/website/static/media/IBMPlexSans-BoldItalic.2154ceb1.ttf",
+    "static/media/IBMPlexSans-ExtraLightItalic.bc3214be.ttf": "/website/static/media/IBMPlexSans-ExtraLightItalic.bc3214be.ttf",
+    "static/media/IBMPlexSans-Light.85a69ee4.ttf": "/website/static/media/IBMPlexSans-Light.85a69ee4.ttf",
+    "static/media/IBMPlexSans-Medium.e1777542.ttf": "/website/static/media/IBMPlexSans-Medium.e1777542.ttf",
+    "static/media/IBMPlexSans-Regular.0519459d.ttf": "/website/static/media/IBMPlexSans-Regular.0519459d.ttf",
+    "static/media/IBMPlexSans-SemiBold.feed3faa.ttf": "/website/static/media/IBMPlexSans-SemiBold.feed3faa.ttf",
+    "static/media/IBMPlexSans-Thin.7b080d48.ttf": "/website/static/media/IBMPlexSans-Thin.7b080d48.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f626c65.js",
+    "static/js/2.bd87bd68.chunk.js",
+    "static/js/main.4bb7dc0a.chunk.js"
+  ]
+}

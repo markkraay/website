@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.js": "/website/static/js/main.8982a039.chunk.js",
-    "main.js.map": "/website/static/js/main.8982a039.chunk.js.map",
+    "main.js": "/website/static/js/main.a242457d.chunk.js",
+    "main.js.map": "/website/static/js/main.a242457d.chunk.js.map",
     "runtime-main.js": "/website/static/js/runtime-main.4f626c65.js",
     "runtime-main.js.map": "/website/static/js/runtime-main.4f626c65.js.map",
-    "static/js/2.7b5a351e.chunk.js": "/website/static/js/2.7b5a351e.chunk.js",
-    "static/js/2.7b5a351e.chunk.js.map": "/website/static/js/2.7b5a351e.chunk.js.map",
+    "static/js/2.b34f2167.chunk.js": "/website/static/js/2.b34f2167.chunk.js",
+    "static/js/2.b34f2167.chunk.js.map": "/website/static/js/2.b34f2167.chunk.js.map",
     "index.html": "/website/index.html",
-    "static/js/2.7b5a351e.chunk.js.LICENSE.txt": "/website/static/js/2.7b5a351e.chunk.js.LICENSE.txt",
-    "static/media/Augustus.2e0b62d1.jpg": "/website/static/media/Augustus.2e0b62d1.jpg",
+    "static/js/2.b34f2167.chunk.js.LICENSE.txt": "/website/static/js/2.b34f2167.chunk.js.LICENSE.txt",
     "static/media/BackArrow.e1224afc.svg": "/website/static/media/BackArrow.e1224afc.svg",
+    "static/media/C++.53bb9a47.png": "/website/static/media/C++.53bb9a47.png",
+    "static/media/ComputerBuild.2ef6d844.jpg": "/website/static/media/ComputerBuild.2ef6d844.jpg",
+    "static/media/Go.6422db65.png": "/website/static/media/Go.6422db65.png",
     "static/media/IBMPlexSans-BoldItalic.2154ceb1.ttf": "/website/static/media/IBMPlexSans-BoldItalic.2154ceb1.ttf",
     "static/media/IBMPlexSans-ExtraLight.9c8a7ea6.ttf": "/website/static/media/IBMPlexSans-ExtraLight.9c8a7ea6.ttf",
     "static/media/IBMPlexSans-ExtraLightItalic.bc3214be.ttf": "/website/static/media/IBMPlexSans-ExtraLightItalic.bc3214be.ttf",
@@ -18,11 +20,16 @@
     "static/media/IBMPlexSans-Regular.0519459d.ttf": "/website/static/media/IBMPlexSans-Regular.0519459d.ttf",
     "static/media/IBMPlexSans-SemiBold.feed3faa.ttf": "/website/static/media/IBMPlexSans-SemiBold.feed3faa.ttf",
     "static/media/IBMPlexSans-Thin.7b080d48.ttf": "/website/static/media/IBMPlexSans-Thin.7b080d48.ttf",
+    "static/media/Javascript.2739250e.png": "/website/static/media/Javascript.2739250e.png",
+    "static/media/NumberRecognizer.74f77703.png": "/website/static/media/NumberRecognizer.74f77703.png",
+    "static/media/Python.f22d1fce.png": "/website/static/media/Python.f22d1fce.png",
+    "static/media/TetrisAI.df3a8d82.png": "/website/static/media/TetrisAI.df3a8d82.png",
+    "static/media/Typescript.eeb913e1.png": "/website/static/media/Typescript.eeb913e1.png",
     "static/media/simple-cnn.421b34e2.png": "/website/static/media/simple-cnn.421b34e2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4f626c65.js",
-    "static/js/2.7b5a351e.chunk.js",
-    "static/js/main.8982a039.chunk.js"
+    "static/js/2.b34f2167.chunk.js",
+    "static/js/main.a242457d.chunk.js"
   ]
 }

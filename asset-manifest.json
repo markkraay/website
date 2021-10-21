@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/website/static/js/main.75910e1d.chunk.js",
-    "main.js.map": "/website/static/js/main.75910e1d.chunk.js.map",
+    "main.js": "/website/static/js/main.f890f047.chunk.js",
+    "main.js.map": "/website/static/js/main.f890f047.chunk.js.map",
     "runtime-main.js": "/website/static/js/runtime-main.4f626c65.js",
     "runtime-main.js.map": "/website/static/js/runtime-main.4f626c65.js.map",
-    "static/js/2.bd87bd68.chunk.js": "/website/static/js/2.bd87bd68.chunk.js",
-    "static/js/2.bd87bd68.chunk.js.map": "/website/static/js/2.bd87bd68.chunk.js.map",
+    "static/js/2.ac5fc7e2.chunk.js": "/website/static/js/2.ac5fc7e2.chunk.js",
+    "static/js/2.ac5fc7e2.chunk.js.map": "/website/static/js/2.ac5fc7e2.chunk.js.map",
     "index.html": "/website/index.html",
-    "static/js/2.bd87bd68.chunk.js.LICENSE.txt": "/website/static/js/2.bd87bd68.chunk.js.LICENSE.txt",
+    "static/js/2.ac5fc7e2.chunk.js.LICENSE.txt": "/website/static/js/2.ac5fc7e2.chunk.js.LICENSE.txt",
     "static/media/Augustus.2e0b62d1.jpg": "/website/static/media/Augustus.2e0b62d1.jpg",
     "static/media/BackArrow.e1224afc.svg": "/website/static/media/BackArrow.e1224afc.svg",
     "static/media/IBMPlexSans-BoldItalic.2154ceb1.ttf": "/website/static/media/IBMPlexSans-BoldItalic.2154ceb1.ttf",
@@ -20,7 +20,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4f626c65.js",
-    "static/js/2.bd87bd68.chunk.js",
-    "static/js/main.75910e1d.chunk.js"
+    "static/js/2.ac5fc7e2.chunk.js",
+    "static/js/main.f890f047.chunk.js"
   ]
 }
